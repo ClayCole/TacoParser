@@ -1,0 +1,17 @@
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/LoggingKata
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/TacoBell-US-AL.csv
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/LoggingKata.deps.json
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/LoggingKata.runtimeconfig.json
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/LoggingKata.runtimeconfig.dev.json
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/LoggingKata.dll
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/LoggingKata.pdb
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/bin/Debug/netcoreapp3.1/GeoCoordinate.NetCore.dll
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.csproj.AssemblyReference.cache
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.AssemblyInfoInputs.cache
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.AssemblyInfo.cs
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.csproj.CoreCompileInputs.cache
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.csproj.CopyComplete
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.dll
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.pdb
+/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/obj/Debug/netcoreapp3.1/LoggingKata.genruntimeconfig.cache

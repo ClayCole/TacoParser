@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RY8UyviUEwq9ngg0TovRbb39/hHwHHkXqODDsHVMnp0NEHRgAhULeE7x5v5L+uU30VHEqCjigdSWTRwk1OA9bw==",
+  "success": true,
+  "projectFilePath": "/Users/claycoleman/Desktop/Repos/TacoParser/LoggingKata/LoggingKata.csproj",
+  "expectedPackageFiles": [
+    "/Users/claycoleman/.nuget/packages/geocoordinate.netcore/1.0.0.1/geocoordinate.netcore.1.0.0.1.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
